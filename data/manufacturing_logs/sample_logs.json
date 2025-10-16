@@ -1,0 +1,44 @@
+[
+  {
+    "batch_number": "MED2024001",
+    "barcode": "8901234567890",
+    "product_name": "Paracetamol 500mg",
+    "manufacturer": "PharmaCorp",
+    "manufacturing_date": "2024-01-15",
+    "expiry_date": "2026-01-15",
+    "facility_id": "FAC-001",
+    "quality_check_passed": true,
+    "status": "valid",
+    "certification_number": "CERT-2024-001",
+    "inspected_by": "Inspector A",
+    "inspection_date": "2024-01-20"
+  },
+  {
+    "batch_number": "FOOD2024001",
+    "barcode": "8901234567891",
+    "product_name": "Organic Milk",
+    "manufacturer": "DairyFresh",
+    "manufacturing_date": "2024-10-10",
+    "expiry_date": "2024-10-25",
+    "facility_id": "FAC-002",
+    "quality_check_passed": true,
+    "status": "valid",
+    "certification_number": "CERT-2024-002",
+    "inspected_by": "Inspector B",
+    "inspection_date": "2024-10-11"
+  },
+  {
+    "batch_number": "MED2024002",
+    "barcode": "8901234567892",
+    "product_name": "Ibuprofen 400mg",
+    "manufacturer": "MediCare Ltd",
+    "manufacturing_date": "2024-03-01",
+    "expiry_date": "2026-03-01",
+    "facility_id": "FAC-003",
+    "quality_check_passed": true,
+    "status": "valid",
+    "certification_number": "CERT-2024-003",
+    "inspected_by": "Inspector C",
+    "inspection_date": "2024-03-05"
+  }
+]
